@@ -1,0 +1,9 @@
+body {font-family: Georgia; 
+	text-align: center; 
+	background-color: rgba(236, 240, 241,1.0);
+    color: rgb(44, 62, 80);}
+ 
+
+ol {list-style-type: none;}
+
+#slogan {text-style: italic;}
