@@ -5,4 +5,11 @@ body {font-family: Georgia;
  
 ol {list-style-type: none;}
 
+div {background-color: white;
+    width: 500px;
+    padding: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #slogan {font-style: italic;}
