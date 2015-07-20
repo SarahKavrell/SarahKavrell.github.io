@@ -1,9 +1,12 @@
-body {font-family: Georgia; 
+
+body {font-family: Lato;
 	text-align: center; 
-	background-color: rgba(236, 240, 241,1.0);
+	background-color: rgb(236, 240, 241);
     color: rgb(44, 62, 80);}
  
 ol {list-style-type: none;}
+
+p{font-family: tienne;}
 
 div {background-color: white;
     width: 500px;
