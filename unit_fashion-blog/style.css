@@ -1,0 +1,61 @@
+
+p {color: #bbbbbb;}
+
+body {font-family: Lato;
+	  font-weight: 300;
+
+}
+
+
+div {padding-right: 54px;
+padding-left: 54px;
+}
+
+
+h1 {color: red;
+	line-height: 1.5;
+	margin-left: 54px;
+	}
+
+h2 {
+	color: #bbbbbb;
+	margin-left: 54px;
+}
+
+h3 {
+	margin-left: 54px;
+}
+
+
+hr {margin-right: 425px;
+	margin-left: 54px;}
+
+p{ width: 720px;
+    padding: 54px;
+    border: solid, left, 6px, border, #dddddd;}
+
+
+ a:link {
+ 	color:red; 
+ 	float: right;
+ 	margin-right: 425px;
+ }
+
+ul.nav {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+  margin-left: 40px;
+}
+
+ul.nav li {
+ 	display: inline-block;
+ 	float: left;
+ }
+
+ ul.nav a:link {
+ 	color: #dddddd;
+ 	margin: 4px;
+ } 
+
+ 
